@@ -10,7 +10,6 @@
     <artifactId>pet-clinic-data</artifactId>
 
     <properties>
-        <maven.javadoc.skip>true</maven.javadoc.skip>
         <spring-boot.repackage.skip>true</spring-boot.repackage.skip>
         <maven.compiler.source>16</maven.compiler.source>
         <maven.compiler.target>16</maven.compiler.target>
